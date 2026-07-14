@@ -1,0 +1,78 @@
+# 📈 Business Insights
+
+## 📌 Project Summary
+
+The objective of this analysis was to understand customer churn behavior and identify factors that may influence customer retention. The dataset was cleaned, explored, and analyzed using Python to uncover meaningful business insights.
+
+---
+
+# Key Findings
+
+## 1. Customer Churn
+
+- Calculated the overall customer churn rate.
+- Compared the number of customers who stayed with those who left.
+- Churned customers represent an important business segment that requires further attention.
+
+---
+
+## 2. Contract Type Analysis
+
+- Compared churn across different contract types.
+- Evaluated whether long-term contracts are associated with better customer retention.
+- Identified contract categories that may require targeted retention strategies.
+
+---
+
+## 3. Payment Method Analysis
+
+- Examined customer churn based on payment methods.
+- Compared different payment options to identify potential churn patterns.
+- Highlighted payment methods that may benefit from further investigation.
+
+---
+
+## 4. Monthly Charges
+
+- Analyzed the distribution of monthly charges.
+- Compared average monthly charges between retained and churned customers.
+- Evaluated whether pricing may influence customer retention.
+
+---
+
+## 5. Customer Tenure
+
+- Compared the average tenure of retained and churned customers.
+- Observed customer loyalty patterns based on the length of service.
+- Identified opportunities to improve retention among newer customers.
+
+---
+
+# Business Recommendations
+
+Based on the analysis, the company should consider:
+
+- Developing targeted retention strategies for customers with higher churn risk.
+- Reviewing contract plans to encourage long-term customer relationships.
+- Improving customer engagement during the early months of service.
+- Monitoring customer satisfaction through regular feedback.
+- Evaluating pricing and promotional strategies for high-risk customer groups.
+
+---
+
+# Skills Applied
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Analysis
+- Python Programming
+- Pandas
+- NumPy
+- Matplotlib
+
+---
+
+# Conclusion
+
+This project demonstrates how Python can be used to analyze customer behavior and generate actionable business insights. By understanding churn patterns, organizations can make informed decisions to improve customer retention and support long-term business growth.
